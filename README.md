@@ -56,3 +56,6 @@ Document findings and conclude the best-performing prompting approach.
 [PE exp2.pdf](https://github.com/user-attachments/files/27472303/PE.exp2.pdf)
 
 ## Result
+The experiment compared different prompting techniques using various test scenarios.
+Structured and refined prompts produced more accurate, relevant, and detailed responses than broad prompts.
+The study concludes that effective prompt engineering improves AI performance, reasoning, and response quality.
