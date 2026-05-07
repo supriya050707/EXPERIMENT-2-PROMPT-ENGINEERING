@@ -1,3 +1,4 @@
+
 # EXP-2-PROMPT-ENGINEERING-
 
 ## Aim: 
@@ -52,5 +53,6 @@ Step 7:
 Document findings and conclude the best-performing prompting approach.
 
 ## Output
+[PE exp2.pdf](https://github.com/user-attachments/files/27472303/PE.exp2.pdf)
 
 ## Result
